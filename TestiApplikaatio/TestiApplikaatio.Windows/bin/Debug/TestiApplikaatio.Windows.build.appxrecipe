@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RASMUSTIESKARI</Machine>
+    <WindowsUser>Rasmus</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0d19d815-9447-45dc-aa00-360c622681ae</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\CorrectAnswer.png">
+      <PackagePath>js\CorrectAnswer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\HappyFace.png">
+      <PackagePath>js\HappyFace.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\QuestionImage.png">
+      <PackagePath>js\QuestionImage.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\SadFace.png">
+      <PackagePath>js\SadFace.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\WrongAnswer.png">
+      <PackagePath>js\WrongAnswer.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Shared\js\touchLogic.js">
+      <PackagePath>js\touchLogic.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

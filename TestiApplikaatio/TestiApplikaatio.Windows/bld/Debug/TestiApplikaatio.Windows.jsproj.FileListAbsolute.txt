@@ -1,0 +1,15 @@
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bin\Debug\ReverseMap\resources.pri
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bin\Debug\AppxManifest.xml
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bin\Debug\TestiApplikaatio.Windows.build.appxrecipe
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\priconfig.xml
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\layout.resfiles
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\resources.resfiles
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\pri.resfiles
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\qualifiers.txt
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\rasmus\documents\visual studio 2013\Projects\TestiApplikaatio\TestiApplikaatio\TestiApplikaatio.Windows\bld\Debug\ProjectArchitectures.txt
